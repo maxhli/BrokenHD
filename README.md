@@ -2,4 +2,11 @@
 BrokenHD
 
 Group Member: Ky'land, Ciara and Ryan
-Group Leader: ???
+Group Leader: Ryan
+
+Report:
+ Ciara: Here's what I thought of the Geek Squad's quick overview. Firstly, when I walked in, the place looked organized. When I actually went up to the customer service area, I was guided to another area; then another employee told me to go back to the same spot where I was initally. To that regard, I think the service is unorganized because normally it should be one place where one person should be there ready to help the customer. Next, I turned on the laptop with the corrupted hard drive; then I listened to the technician; he said that the hard drive was bad and it needed new hardware or a new hard drive. Then he offered the Tech Support for 99 dollars a year. Finally, after that, he said that it could be some many other things, but mainly he recommended that the hard drive needed to be replaced or just get a new computer all together. 
+
+ Ryan: As far as specifically what they looked at, when the computer was turned on, all they did was see just exactly what happened. As soon as the blue screen reporting a virus, he basically went hands-off. What I mean is that when he saw this, he was confused about it and only asked if we had tech support for the computer. He did not check out the hard drive, or see if there is an issue in the hard drive or the motherboard. He just gave assumptions saying it could be the motherboard or the hard drive. All he really said is for us to just take another computer to look up the information ourselves to figure out what the error codes mean. In his words, he said, "...hexadecimal code....." which is poor communication to the customer to provide information that the customer can understand.
+  
+  Ky'Land: Best Buy's Geek Squad is extremely unorganized, the workers do not know where to send their customers. At Best Buy the technician told us that the computer's hard drive was dead, and he basically infered that he was not able to do anything for us. He told us that our only option is to buy a new hard drive or to get a new computer. The technician did not even touch the computer once he saw the blue screen. He showed a lack of diligence for his job today, and he gave up and didn't even try. I believe that Best Buy's Geek Squad is extremely overrated and too pricey for the service that they give to their customers. The technician deserves a 3/10 stars on his rating for bad customer service.
